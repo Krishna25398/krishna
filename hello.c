@@ -7,7 +7,7 @@ add(int a,int b)
 }
 int main()
 {
-  int a=10,b=20,c;
+  int a=50,b=100,c;
   c=add(a,b);
   printf("%d",c)
 }
